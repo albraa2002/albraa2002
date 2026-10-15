@@ -19,9 +19,17 @@
 
 ## 👋 About Me
 
-I'm **Albaraa Ehab Elzeftawy** — working across **Data Analytics, Account Management, and Project Management**.
+I'm **Albaraa Ehab Elzeftawy**, working across **Data Analytics, Account Management, and Project Management**. I connect business goals with client expectations, team coordination, project delivery, and data-informed decisions.
 
-I connect business goals with client expectations, team coordination, project delivery, and data-informed decisions. My approach combines clear communication and structured execution with an analytical mindset: understand the goal, define success, track progress, spot risks early, and turn information into practical next steps.
+My approach is practical: understand the goal, define success, make progress visible, spot risks early, and turn information into clear next steps.
+
+**New here?** Start with the [Portfolio Guide](PORTFOLIO_GUIDE.md) for a recruiter-friendly map of my work.
+
+<div align="center">
+
+[📊 Data Analytics](#-what-i-bring) &nbsp; • &nbsp; [🤝 Account Management](#-what-i-bring) &nbsp; • &nbsp; [🚀 Project Management](#-what-i-bring) &nbsp; • &nbsp; [📁 Portfolio Guide](PORTFOLIO_GUIDE.md)
+
+</div>
 
 ## 🧭 What I Bring
 
@@ -85,6 +93,7 @@ Task tracking, timelines, priorities, dependencies, stakeholder updates, and del
 <td width="50%" valign="top">
 
 ### ⚽ Arsenal Analytics Platform
+
 Football analytics portfolio project exploring match, team, and player data.
 
 [**View repository →**](https://github.com/albraa2002/arsenal-analytics-platform)
@@ -93,6 +102,7 @@ Football analytics portfolio project exploring match, team, and player data.
 <td width="50%" valign="top">
 
 ### 🛍️ Amazon Electronics Sales Analysis
+
 Sales analysis project focused on electronics data and commercial questions.
 
 [**View repository →**](https://github.com/albraa2002/AmazonElectronicsSalesAnalysis)
@@ -103,6 +113,7 @@ Sales analysis project focused on electronics data and commercial questions.
 <td width="50%" valign="top">
 
 ### 🧩 B2B Sales CRM Analytics
+
 A business-focused look at sales pipelines, conversion, and CRM performance.
 
 [**View repository →**](https://github.com/albraa2002/B2B-Sales-CRM-Analytics)
@@ -111,6 +122,7 @@ A business-focused look at sales pipelines, conversion, and CRM performance.
 <td width="50%" valign="top">
 
 ### 🔁 E-commerce RFM & Retention
+
 Customer segmentation and retention analytics for e-commerce.
 
 [**View repository →**](https://github.com/albraa2002/E-commerce-RFM-Retention-Analytics)
@@ -129,6 +141,8 @@ Marketing performance and return-on-investment reporting.
 </td>
 </tr>
 </table>
+
+[**Browse the full Portfolio Guide →**](PORTFOLIO_GUIDE.md)
 
 ## 📊 GitHub Dashboard
 
