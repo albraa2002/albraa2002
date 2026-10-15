@@ -1,37 +1,62 @@
-<h1 align="center">Hi 👋 I'm Albaraa Ehab Elzeftawy</h1>
-<h3 align="center">Data Analyst</h3> <br>
+# Hi, I'm Albaraa Ehab Elzeftawy 👋
 
-Experienced Data Analyst proficient in data management, statistical analysis, and visualization using tools like Power BI, Python, and Excel. Skilled in advanced DAX functions and creating insightful dashboards to drive business decisions.
+### Data Analyst | Business Analytics | Decision Support
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=300&color=8CC84B&center=true&vCenter=true&width=600&height=100&lines=Data+Analysis;Sentiment+Analysis;" alt="Typing SVG" />
-  </a>
-</p>
-<p align="center">
-  <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold; font-size: 16px; color: #6C757D;"></span>
-</p>
+I work at the intersection of **data, business performance, and practical decision-making**. I enjoy turning raw datasets into understandable insights, useful dashboards, and tools that help teams ask better questions and act with more confidence.
 
+My background also includes account management and client-facing work, which shapes how I approach analytics: start with the business problem, define the right metric, validate the data, and communicate what the findings mean.
 
-##  🌐 Socials<span style="display: inline-block;">
-<p align="left">
-<a href="https://www.linkedin.com/in/albaraa-ehab-859579232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Albaraa Ehab" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/albraaalzeftawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="albraaalzeftawi" height="30" width="40" /></a>
+---
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-4EA94B?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+## 🔎 What I Focus On
+
+- **Data analysis:** cleaning, validation, exploratory analysis, and KPI definition
+- **Business intelligence:** dashboards, performance tracking, and clear reporting
+- **Customer & commercial analytics:** sales trends, retention, segmentation, and marketing performance
+- **Applied projects:** translating operational problems into practical analytical tools
+
+## 🧰 Tools & Technologies
+
+**Analysis:** Python, SQL, Excel  
+**Python ecosystem:** Pandas, NumPy, Matplotlib, scikit-learn  
+**Visualization & BI:** Power BI, Tableau  
+**Data & workflow:** MySQL, Google Sheets, Git, Jupyter Notebook
+
+> I aim to list tools I can demonstrate through projects, rather than treating a long list of technologies as a substitute for evidence.
+
+## 🚀 Featured Projects
+
+### ⚽ [Arsenal Analytics Platform](https://github.com/albraa2002/arsenal-analytics-platform)
+A football analytics portfolio project exploring how match, team, and player data can be structured for analysis and visualization. See the repository documentation for the intended workflow and current implementation status.
+
+### 🛍️ [Amazon Electronics Sales Analysis](https://github.com/albraa2002/AmazonElectronicsSalesAnalysis)
+A sales-analysis project focused on exploring electronics product data and identifying useful commercial patterns. The repository README documents the intended workflow and questions to investigate.
+
+### 🧩 [B2B Sales CRM Analytics](https://github.com/albraa2002/B2B-Sales-CRM-Analytics)
+A business-focused analytics project exploring sales and customer relationship workflows.
+
+### 🔁 [E-commerce RFM & Retention Analytics](https://github.com/albraa2002/E-commerce-RFM-Retention-Analytics)
+A customer analytics project focused on segmentation and retention questions.
+
+### 📈 [Marketing ROI Dashboard](https://github.com/albraa2002/Marketing-ROI-Dashboard)
+A project focused on marketing performance and return-on-investment reporting.
+
+*Project descriptions reflect their intended focus. Review each repository's code, dataset, and outputs for implementation details and current status.*
+
+## 🧠 My Approach
+
+1. Understand the business question before choosing a metric.
+2. Inspect data quality, definitions, and missing values.
+3. Analyze patterns and validate the findings.
+4. Explain the business implication—not just the chart.
+5. Recommend a next step that can be measured.
+
+## 🤝 Let's Connect
+
+- [LinkedIn](https://linkedin.com/in/albaraa-ehab-elzeftawy)
+- [GitHub Repositories](https://github.com/albraa2002?tab=repositories)
+- [Kaggle](https://www.kaggle.com/albraaalzeftawi)
+
+---
+
+*Thanks for visiting. I'm continuously improving my portfolio through practical analytics and business-focused projects.*
