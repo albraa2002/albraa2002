@@ -1,38 +1,69 @@
 <!-- Animated profile header -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1C,45:123B55,100:00D9FF&height=220&section=header&text=ALBARAA%20EHAB&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20BUSINESS%20ANALYTICS&descSize=16&descAlignY=58&animation=fadeIn" alt="Animated profile banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1C,45:123B55,100:00D9FF&height=220&section=header&text=ALBARAA%20EHAB&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20%7C%20CLIENTS%20%7C%20PROJECTS&descSize=16&descAlignY=58&animation=fadeIn" alt="Animated profile banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Turning+data+into+decisions;Building+business-focused+dashboards;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Curious+mind.+Measurable+impact." alt="Animated typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=760&lines=Data+Analyst+%7C+Account+Manager+%7C+Project+Manager;Turning+business+needs+into+clear+action;Managing+clients%2C+projects%2C+and+performance;Data-driven.+Client-focused.+Delivery-minded." alt="Animated professional headline" />
 </a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=albraa2002&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views" />
 <a href="https://github.com/albraa2002?tab=followers"><img src="https://img.shields.io/github/followers/albraa2002?style=for-the-badge&logo=github&label=FOLLOWERS&color=123B55" alt="GitHub followers" /></a>
-<a href="https://github.com/albraa2002?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Projects-00D9FF?style=for-the-badge&logo=github&logoColor=0A0F1C" alt="Explore my projects" /></a>
+<a href="https://github.com/albraa2002?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Projects-00D9FF?style=for-the-badge&logo=github&logoColor=0A0F1C" alt="Explore projects" /></a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I'm **Albaraa Ehab Elzeftawy**, a data analyst interested in the space where **data, business performance, and decision-making** meet.
+I'm **Albaraa Ehab Elzeftawy** — working across **Data Analytics, Account Management, and Project Management**.
 
-My account-management and client-facing experience helps me approach analytics from the business side: understand the problem, define useful metrics, validate the data, and communicate insights in a way that supports action.
+I connect business goals with client expectations, team coordination, project delivery, and data-informed decisions. My approach combines clear communication and structured execution with an analytical mindset: understand the goal, define success, track progress, spot risks early, and turn information into practical next steps.
 
-- 🔍 Exploring data quality, trends, KPIs, customer behavior, and performance.
-- 📊 Building dashboards and reports that make business questions easier to answer.
-- 🧠 Interested in analytics that lead to clear, measurable decisions.
-- 🌱 Continuously improving through practical projects and experimentation.
+## 🧭 What I Bring
 
-## ⚡ Tech Stack
+<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 📊 Data Analytics
+
+<img src="https://img.shields.io/badge/INSIGHT-00D9FF?style=for-the-badge&labelColor=0A0F1C" alt="Insight" />
+
+KPI tracking, data exploration, dashboards, performance analysis, and business insights.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🤝 Account Management
+
+<img src="https://img.shields.io/badge/RELATIONSHIPS-00D9FF?style=for-the-badge&labelColor=0A0F1C" alt="Relationships" />
+
+Client communication, expectation alignment, follow-ups, approvals, and coordination between clients and delivery teams.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🚀 Project Management
+
+<img src="https://img.shields.io/badge/DELIVERY-00D9FF?style=for-the-badge&labelColor=0A0F1C" alt="Delivery" />
+
+Task tracking, timelines, priorities, dependencies, stakeholder updates, and delivery follow-through.
+
+</td>
+</tr>
+</table>
+</div>
+
+## ⚡ Tools & Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,jupyter&perline=6" alt="Technical skills icons" />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,jupyter&perline=6" alt="Technical tools" />
 
 <br/><br/>
 
@@ -42,6 +73,8 @@ My account-management and client-facing experience helps me approach analytics f
 <img src="https://img.shields.io/badge/Tableau-0A0F1C?style=for-the-badge&logo=tableau&logoColor=00D9FF" alt="Tableau" />
 <img src="https://img.shields.io/badge/Pandas-0A0F1C?style=for-the-badge&logo=pandas&logoColor=FFFFFF" alt="Pandas" />
 <img src="https://img.shields.io/badge/NumPy-0A0F1C?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy" />
+<img src="https://img.shields.io/badge/Client_Communication-0A0F1C?style=for-the-badge&logo=googlechat&logoColor=00D9FF" alt="Client communication" />
+<img src="https://img.shields.io/badge/Project_Coordination-0A0F1C?style=for-the-badge&logo=asana&logoColor=00D9FF" alt="Project coordination" />
 
 </div>
 
@@ -122,7 +155,6 @@ Marketing performance and return-on-investment reporting.
 
 <div align="center">
 
-<!-- Generated by the GitHub Actions workflow in .github/workflows/snake.yml -->
 <img src="https://raw.githubusercontent.com/albraa2002/albraa2002/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
 
 </div>
